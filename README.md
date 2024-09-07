@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on PHP/Laravel backend development<be>👯 I'm looking to collaborate on machine-learning projects<be>🌱 I'm currently learning Natural Language Processing
+🔭 I'm currently working on PHP/Laravel backend development<br>👯 I'm looking to collaborate on machine-learning projects<br>🌱 I'm currently learning Natural Language Processing
 
 
 ## 🌐 Socials:
