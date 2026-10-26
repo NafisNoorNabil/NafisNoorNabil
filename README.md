@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently working on PHP/Laravel backend development<br>👯 I'm looking to collaborate on machine-learning projects<br>🌱 I'm currently learning Natural Language Processing
+🔭 Currently exploring Data Analytics, Business Intelligence, and Machine Learning
+🌱 Learning Python, SQL, and Machine Learning
+👯 Open to collaborating on data-driven and AI projects
+💡 Interested in turning data into actionable insights and building practical solutions
 
 
 ## 🌐 Socials:
